@@ -5,7 +5,7 @@ build-backend = "setuptools.build_meta"
 [project]
 name = "aiapp"
 version = "0.1.0"
-description = "AI App project"
+description = "Jupyter NB playground"
 dependencies = [
     "pandas",
     "numpy",
